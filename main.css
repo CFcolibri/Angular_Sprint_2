@@ -10918,11 +10918,10 @@ body {
     font-size: 1.1em;
     letter-spacing: 0.18em;
   }
-  .container {
-    background-color: aqua;
-  }
   #myTab {
     border-top: 1px solid rgb(221, 221, 221);
+    margin-left: 5%;
+    margin-right: 5%;
   }
   #myTab li {
     width: 200px;
@@ -11030,4 +11029,9 @@ a:hover {
 
 .navbar-toggler {
   border: 0px;
+}
+
+.border-bottom {
+  margin-left: 30%;
+  margin-right: 30%;
 }/*# sourceMappingURL=main.css.map */
